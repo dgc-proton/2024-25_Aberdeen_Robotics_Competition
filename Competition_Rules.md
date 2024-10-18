@@ -1,4 +1,4 @@
-![](images/logo.png)
+<img src="images/logo.png" width=400/>
 
 # Aberdeen University Robotics Society 2024-25 Competition Rules - Tag Robots
 
@@ -12,15 +12,19 @@ Significant rule clarifications or alterations will be populated in to the table
 
 https://github.com/dgc-proton/2024-25_Aberdeen_Robotics_Competition
  
-### Overview
+## Overview
 
-The tag robot competition will take place in an 'arena'. The arena will consist of a dark surface with white colored tape or paint around the outside of it to define the arena boundry. The white boundary will be at least 2.5cm wide and will be marked in such a way that there are no corners with angles sharper than 45°. The final size and construction of the arena will be revealed closer to the competition date, and competitors will have a chance to test their robots in the arena prior to the competition.
+The tag robot competition will take place in an 'arena'. The arena will consist of a dark surface with white colored tape or paint around the outside of it to define the arena boundry. The white boundary will be at least 2.5cm wide and will be marked in such a way that there are no corners with angles sharper than 45°. The final size and construction of the arena will be revealed closer to the competition date, and competitors will have a chance to test their robots in the arena prior to the competition. The arena might look something like the below:
 
-![The arena might look something like this](images/arena.png)
+<img src="images/arena.png" height=500/>
 
-Two robots will be placed in the arena, with a person from each team next to their robot in order to press its activation button. The referee will dictate the starting position and orientation of each robot. One robot will be nominated 'it'. Each robot will need to be able to function in two different modes, either 'it' (trying to tag the other robot), or trying to avoid being tagged by the other robot. A physical switch is to be used to toggle this functionality.   
-
-When the referee shouts 'start', each competitior will press a physical button on their robot which enables it to begin moving. A a referee will begin the round timer as soon as the round starts. Once the round has started, all persons are to immediately step back and remain at least 1m away from the arena boundries; this is to prevent robots detecting peoples legs etc when they are searching for their opponent. No robots are permitted to move prior to the round starting.
+- Two robots will be placed in the arena, with a person from each team next to their robot in order to press its activation button.
+- The referee will dictate the starting position and orientation of each robot.
+- One robot will be nominated 'it'. Each robot will need to be able to function in two different modes, either 'it' (trying to tag the other robot), or trying to avoid being tagged by the other robot. A physical switch is to be used to toggle this functionality.
+- When the referee shouts 'start', each competitior will press a physical button on their robot which enables it to begin moving.
+- A referee will begin the round timer as soon as the round starts.
+- Once the round has started, all persons are to immediately step back and remain at least 1m away from the arena boundries; this is to prevent robots detecting peoples legs etc when they are searching for their opponent.
+- No robots are permitted to move prior to the round starting.
 
 Each round will last for a pre-determined period of time. During the competition there may be rounds of differing durations. A round ends when either:
 1. The two robots make physical contact. In this case the robot that was 'it' wins the round.
@@ -30,15 +34,15 @@ Each round will last for a pre-determined period of time. During the competition
 
 The decision of the competition judges regarding the above is final.
 
-### Other General Rules
+## Other General Rules
 
 1. If in doubt about any aspect of the rules, ask for clarification. Competitors should comply with both the spirit and the letter of these rules. Ask [Dave](mailto:d.riley.22@abdn.ac.uk?subject=[GitHub]%20Tag%20Robot%20Competition) for clarifications where necessary. If Dave is unavailable, speak to another committee member.
 2. Each team can be made up of 1 to 3 people.
 3. On the day of the competition each team may only have a single robot in their posession, and this robot must not be physically altered between rounds. For the purpose of this competition 'physically altered' means to add or remove a component. Toggling a switch, or uploading different software between rounds is permitted.
-4. If a robot breaks during between rounds of a heat and cannot be repaired within 2 minutes then (at the judges discretion) that team forefits that heat.
+4. If a robot breaks between rounds of a heat and cannot be repaired within 2 minutes then (at the judges discretion) that team forefits that heat.
 5. If a robot is unable to continue competing, and therefore not all of the other teams were able to compete against that robot, then all points relating to heats against that robot become void. This is to prevent the teams that have already competed against the robot from gaining an unfair points advantage.
 
-### Construction Specific Rules
+## Construction Specific Rules
 
 1. Robots are to be autonomous and self-contained. All actions must be driven solely by the onboard processor. Remote controls, wifi/bluetooth/other connections and similar things are not allowed.
 2. Size: The maximum permitted footprint of a robot is 150mm x 150mm. The maximum permitted height is 200mm.
@@ -51,7 +55,7 @@ The decision of the competition judges regarding the above is final.
 
 ## Prize Catagories
 
-In addition to the main prize for the team who wins the overall tag competition, there will be another prize awarded by the competition judges. The following will aspects will be considered when jusdging for this yet-to-be-named prize:
+In addition to the main prize for the team who wins the overall tag competition, there will be another prize awarded by the competition judges. The following aspects will be considered when judging for this yet-to-be-named prize:
 
 - The overall design of the robot
 - The weight of the robot (lighter is more impressive)
