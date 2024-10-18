@@ -1,4 +1,4 @@
-[](images/logo.png)
+![](images/logo.png)
 
 # Aberdeen University Robotics Society 2024-25 Competition Rules - Tag Robots
 
@@ -16,7 +16,7 @@ https://github.com/dgc-proton/2024-25_Aberdeen_Robotics_Competition
 
 The tag robot competition will take place in an 'arena'. The arena will consist of a dark surface with white colored tape or paint around the outside of it to define the arena boundry. The white boundary will be at least 2.5cm wide and will be marked in such a way that there are no corners with angles sharper than 45°. The final size and construction of the arena will be revealed closer to the competition date, and competitors will have a chance to test their robots in the arena prior to the competition.
 
-[The arena might look something like this](images/arena.png)
+![The arena might look something like this](images/arena.png)
 
 Two robots will be placed in the arena, with a person from each team next to their robot in order to press its activation button. The referee will dictate the starting position and orientation of each robot. One robot will be nominated 'it'. Each robot will need to be able to function in two different modes, either 'it' (trying to tag the other robot), or trying to avoid being tagged by the other robot. A physical switch is to be used to toggle this functionality.   
 
@@ -65,7 +65,7 @@ In addition to the main prize for the team who wins the overall tag competition,
 The general structure will be for every team to play a 3 round heat against every other team. The winner of the heat will get one point. At the end of the competition, the team with the most points wins. Example:
 
 | Team | A | B | C | D | E | Total points |
-| ---- | - | - | - | - | - |              |
+| ---- | - | - | - | - | - | ------------ |
 | A    | X | 1 | 0 | 1 | 0 | 2            |
 | B    | 0 | X | 1 | 1 | 0 | 2            |
 | C    | 1 | 0 | X | 1 | 1 | 3            |
