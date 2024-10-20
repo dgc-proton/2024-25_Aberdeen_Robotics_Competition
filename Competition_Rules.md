@@ -4,9 +4,10 @@
 
 Version: 0.1
 
-| Version  | Date        | Details                   |
-| -------- | ----------- | ------------------------- |
-| 0.1      | 18/10/2024  | Draft version for comment |
+| Version  | Date        | Details                                                                  |
+| -------- | ----------- | -------------------------                                                |
+| 0.1      | 18/10/2024  | Draft version for comment                                                |
+| 1.0      | 20/10/2024  | Weight limit changed to 600g, rules reviewed & approved by the committee |
 
 Significant rule clarifications or alterations will be populated in to the table above, and this document re-issued electronically. The master copy of this document is on github:
 
@@ -46,7 +47,7 @@ The decision of the competition judges regarding the above is final.
 
 1. Robots are to be autonomous and self-contained. All actions must be driven solely by the onboard processor. Remote controls, wifi/bluetooth/other connections and similar things are not allowed.
 2. Size: The maximum permitted footprint of a robot is 150mm x 150mm. The maximum permitted height is 200mm.
-3. Weight: The maximim permitted weight of a robot is 500g.
+3. Weight: The maximim permitted weight of a robot is 600g.
 4. Robots are not to have any features that will interfere with the operation or movement of the other robot or that are likely to cause damage to it (i.e. no weapons). The competition is about speed, agility and having an effective control algorithm.
 5. Robots are not to have any features that may damage the arena.
 6. Robots must remain as a complete unit throughout the match, i.e. no parts are allowed to drop off, by design or otherwise.
