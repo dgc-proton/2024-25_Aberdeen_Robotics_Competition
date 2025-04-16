@@ -8,6 +8,7 @@ Version: 0.1
 | -------- | ----------- | -------------------------                                                |
 | 0.1      | 18/10/2024  | Draft version for comment                                                |
 | 1.0      | 20/10/2024  | Weight limit changed to 600g, rules reviewed & approved by the committee |
+| 1.1      | 16/04/2025  | Clarified that reflective tape (samples handed out) will mark arena boundary, and arena is floor of lab 3 |
 
 Significant rule clarifications or alterations will be populated in to the table above, and this document re-issued electronically. The master copy of this document is on github:
 
@@ -15,7 +16,7 @@ https://github.com/dgc-proton/2024-25_Aberdeen_Robotics_Competition
  
 ## Overview
 
-The tag robot competition will take place in an 'arena'. The arena will consist of a dark surface with white colored tape or paint around the outside of it to define the arena boundry. The white boundary will be at least 2.5cm wide and will be marked in such a way that there are no corners with angles sharper than 45°. The final size and construction of the arena will be revealed closer to the competition date, and competitors will have a chance to test their robots in the arena prior to the competition. The arena might look something like the below:
+The tag robot competition will take place in an 'arena'. The arena will consist of a dark surface (the floor of FN lab 3) with reflective tape around the outside of it to define the arena boundry. The boundary will be at least 2.5cm wide and will be marked in such a way that there are no corners with angles sharper than 45°. The final size of the arena will be 5m x 2.5m or less. The arena might look something like the below:
 
 <img src="images/arena.png" height=500/>
 
